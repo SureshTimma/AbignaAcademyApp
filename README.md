@@ -23,48 +23,8 @@ Built using modern technologies such as **[mention key technologies]**, this app
 
 ## **🛠 Tech Stack**
 
-```plaintext
-Frontend:   [e.g., React, Angular, Vue.js]
-Backend:    [e.g., Node.js, Django, Ruby on Rails]
-Database:   [e.g., MongoDB, PostgreSQL, MySQL]
-Real-Time:  [e.g., WebSockets, Socket.io, Firebase]
-Auth:       [e.g., JWT, OAuth]
 
 
 
-## 🎥 Demo
 
-To see [Your App Name] in action, check out the demo video on my YouTube channel 🖥️. The video provides a detailed walkthrough of the app's features and user interface.
-
-![Demo GIF](https://yourgifdemourl.com/demo.gif)
-
-## 🏗️ Architecture Overview
-
-The application is structured to provide high performance and scalability. Below is a brief overview of its architecture:
-
-* **Frontend**: Developed using [Frontend Technology], the UI is responsive and optimized for various devices.
-* **Backend**: The server is built on [Backend Technology], providing RESTful API services.
-* **Database**: The app uses [Database] to store and manage data efficiently.
-* **Real-Time Functionality**: Implemented using [Technology], ensuring that all updates are reflected instantly across the app.
-
-![Architecture Diagram](https://yourarchitecturediagramurl.com/diagram.png)
-
-## 🚀 Installation
-
-Note: The source code is not shared in this repository. However, if you are interested in the development process or collaboration, feel free to reach out.
-
-To get a sense of how the app works, you can follow these steps to set up a similar environment:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-
-# Install dependencies (for Node.js)
-npm install
-
-# Run the application
-npm start
-
-# OR for a Python environment
-pip install -r requirements.txt
-python manage.py runserver
+## **🎥 Demo**
